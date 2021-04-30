@@ -8,7 +8,7 @@ Soy FullStack Developer con orientación al Front-End,  me encuentro realizando 
 
 
 
-Habilidades: REDUX / REACT / JS / HTML / CSS
+Habilidades: REDUX / REACT / JS / HTML / CSS/ POSGRES/ SEQUELIZE/ NODE JS
 
 - 🔭 Estoy trabajando en Numerique (proyecto final de Henry) 
 - 🌱 Estoy aprendiendo Desarrollo Web en Henry 
@@ -17,5 +17,4 @@ Habilidades: REDUX / REACT / JS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Eduardo871)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sebastianciare//)  
-
 
