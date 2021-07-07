@@ -10,7 +10,7 @@ Soy FullStack Developer con orientación al Front-End,  me encuentro realizando 
 
 Habilidades: REDUX / REACT / JS / HTML / CSS/ POSGRES/ SEQUELIZE/ NODE JS
 
-- 🔭 Estoy trabajando en Numerique (proyecto final de Henry) 
+- 🔭 Estoy terminando Barbers Community (proyecto final de Henry)
 - 🌱 Estoy aprendiendo Desarrollo Web en Henry 
 - 📫 Cómo contactarme: Eduardociare871@gmail.com 
 - ⚡ Dato curioso: Me encanta la animación 3D  
