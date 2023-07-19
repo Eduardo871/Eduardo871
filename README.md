@@ -2,13 +2,13 @@
 #### Soy web developer fullstack
 ![Soy web developer fullstack](https://programaenlinea.net/wp-content/uploads/2018/08/desarrollo-web.png)
 
-Mi nombre es Sebastián Ciare, tengo 21 años y soy de Argentina.
-Soy FullStack Developer con orientación al Front-End,  me encuentro realizando proyectos con React (Web) en Front + Node y Express en Back, integrando equipos con metodología SCRUM y sistema de versiones GIT + GITHUB.
+Mi nombre es Sebastián Ciare, tengo 23 años y soy de Argentina.
+Soy FullStack Developer con orientación al Front-End. En este momento me encuentro desempeñandome como front-end developer en una empresa del rubro de la salud
 
 
 
 
-Habilidades: REDUX / REACT / JS / HTML / CSS/ POSGRES/ SEQUELIZE/ NODE JS
+Habilidades: REDUX / REACT / IONIC/ JS / HTML / NODE JS
 
 - 🔭 Estoy terminando Barbers Community (proyecto final de Henry)
 - 🌱 Estoy aprendiendo Desarrollo Web en Henry 
